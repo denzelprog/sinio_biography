@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+       <!--- TAGS -->
+        <h1>SINIO BIOGRAPHY</h1>
+        <h2>chill guy</h2>
+        <hr>
+
+        <!---- Image -->
+        <img src="image/gun ui2.png" alt="Sinio Image" 
+        width="300" height="400">
+
+        <!--- About Me -->
+        <div>
+            <h2>About Me</h2>
+            <p>Hi! I'm Denzel Roi Sinio, I am 20 years old and a chill guy who loves coding and gaming, currently a 3rd year Information Technology student. I enjoy spending my free time exploring new technologies and playing video games with friends. I'm always eager to learn and take on new challenges. Also, I'm an aspiring web developer</p>
+            <hr>
+        </div>
+
+        <!--- Hobbies -->
+        <div>
+            <h2>Hobbies</h2>
+            <ul>
+                <li>Coding</li>
+                <li>Gaming</li>
+                <li>Reading Tech Blogs</li>
+                <li>Traveling</li>
+            </ul>
+            <hr>
+        </div>
+        <!----Daily Routine-->
+        <!--- Daily Routine -->
+        <div>
+            <h2>Daily Routine</h2>
+            <ol>
+                <li>5:30 AM - Wake up and have breakfast</li>
+                <li>8:00 AM - Attend classes or work on assignments</li>
+                <li>1:30 PM - Take breaks to play video games or read tech blogs</li>
+                <li>4:00 PM - Exercise or go for a walk</li>
+                <li>5:00 PM - Bath/skincare </li>
+                <li>6:00 PM - Work on personal coding projects</li>
+                <li>9:00 PM - Relax and unwind before bed</li>
+        </div>
+
+        <!--QUOTE---->
+        <h4>Favorite Line</h4>
+        <p>
+            <em>"Code is like humor. When you have to explain it, it’s bad."</em> - Cory House
+        </p>
+
+        <!-------CONTACT-->
+        <h5>Contact Information</h5>
+        <p>You can find my Github Here:</p>
+        <p class="center">
+            <a href="https://github.com/denzelprog">Github Profile</a>
+        </p>
+        
+    </div>
+
+
+</body>
+</html>
